@@ -1,6 +1,6 @@
 # ALGO_Seminars
 
-A set of seminars that I organized in the years 1997-2000s
+## Seminars that I organized in the years 1997-2000s
 
 [AlgoLondon](./pdf/AlgoLondon.pdf)
 
@@ -24,12 +24,6 @@ A set of seminars that I organized in the years 1997-2000s
 
 [LewisExpansions.](./pdf/LewisExpansions.pdf)
 
-[paper: MeanReversion_Processes2](./pdf/MeanReversion_Processes2.pdf)
-
-[paper: MeanReversionLikelihood](./pdf/MeanReversionLikelihood.pdf)
-
-[paper: MeanReversionMultivariate](./pdf/MeanReversionMultivariate.pdf)
-
 [MeanReversionOptions](./pdf/MeanReversionOptions.pdf)
 
 [MeanrevertingBridge](./pdf/MeanrevertingBridge.pdf)
@@ -51,3 +45,17 @@ A set of seminars that I organized in the years 1997-2000s
 [TreeTechniques](./pdf/TreeTechniques.pdf)
 
 [Seminar_BlackSholes](./pdf/Seminar_BlackSholes.pdf)
+
+## papers
+
+[paper: MeanReversion_Processes2](./pdf/MeanReversion_Processes2.pdf)
+
+[paper: MeanReversionLikelihood](./pdf/MeanReversionLikelihood.pdf)
+
+[paper: MeanReversionMultivariate](./pdf/MeanReversionMultivariate.pdf)
+
+[paper: DynamicMtF](./pdf/DynamicMtF.pdf)
+
+[paper: Fastmontecarlo](./pdf/Fastmontecarlo.pdf)
+
+[paper: ](./pdf/.pdf)
